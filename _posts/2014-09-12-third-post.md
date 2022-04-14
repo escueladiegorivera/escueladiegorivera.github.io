@@ -1,6 +1,6 @@
 ---
-title: Third Post
-author: Chris
+title: Carreras
+author: 
 layout: post
 icon: fa-lightbulb
 icon-style: regular
