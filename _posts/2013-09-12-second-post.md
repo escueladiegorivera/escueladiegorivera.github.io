@@ -1,5 +1,5 @@
 ---
-title: Second Post
+title: Guias de Estudio
 author: Chris
 layout: post
 ---
