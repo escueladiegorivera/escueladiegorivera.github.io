@@ -5,9 +5,7 @@ layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
-See the icon?
-
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
+La escuela Diego Rivera tecnologica ofrece educacion Bachillerato escolarizado con 8 especialidades
 
 <span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 
