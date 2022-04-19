@@ -3,22 +3,34 @@ title: Becas
 author:
 layout: post
 ---
-Lorem ipsum dolor sit amet, harum malorum nominavi mea et. Atqui maluisset duo cu, summo dignissim voluptatum sit ut. Ad quo quidam delicatissimi. Cum nihil noster patrioque id. Per at maiorum definitiones. Cu vix sint aliquip. No duo alia sale persecuti.
 
-Pri id consul meliore luptatum, vix iudico impetus salutatus eu, duo at causae admodum complectitur. Qui eu salutandi dignissim, ea dictas audire commodo eos, vim cu autem dicam. Novum placerat moderatius sea ex, debet labitur reprehendunt mei ad. Tempor theophrastus et est, id tollit ponderum usu, at vis consul detraxit. Sit ut adhuc aeque.
+CONVOCA
+A todos/as los/as alumnos/as de escuelas nivel media superior a inscribirse para poder obtener el apoyo economico de $5,000 bimestrales los cuales les ayudara para un mejor rendimiento escolar y para que tod@s tengan las mismas posibilidades para sus necesidades escolares,tanto transporte como necesidades de utiles escolares.
 
-Ut eum labore antiopam. Cum eu modus rationibus. Illud deleniti cum cu. At vix illum vitae tation, solet oporteat complectitur at vel. Vim te simul eleifend, et per insolens conceptam, ad sint posidonium est. Ad vocent propriae principes duo.
+¿CUALES SON LOS REQUISITOS?
+a) Ser alumno/a activo y haber terminado el tramite de inscripcion al semestre 2022 como maximo el 25 de agosto
+b) No gozar de otra beca para el mismo fin otorgada por alguna dependencia o institucion de la Administracion Publica Federal
 
-Audire periculis id vis, cum eu sonet option patrioque, his dicam sanctus imperdiet ad. Ad sonet dolorum est. Eu dolore adipisci volutpat mei, eu nec nisl molestiae. Usu ad veri omnesque pertinacia, duis scripserit ad nam. Quo id eligendi legendos.
+¿CUAL ES LA COBERTURA?
+El programa tiene cobertura nacional y una vez realizado el registro por parte de los planteles educativos, la coordinacion nacional otorgara las becas de acuerdo con las prioridades establecidas y hasta agotar la disponibilidad presupuestal autorizada por la SHCP
 
-Eos cu partiendo vituperatoribus. Mel id duis delenit atomorum, mei tamquam nostrum ne, id eum hinc decore mediocrem. Mei feugiat habemus tincidunt ut, atqui detraxit ex usu. Vix ad commodo eripuit alienum, an has idque delicatissimi. Dolores reformidans mel ne, duis numquam disputando quo te.
+CRITERIOS DE PRIORIZACION 
+En funcion de la disponibilidad presupuestal, la Coordinacion Nacional aplica 8 criterios de priorizacion en el procedimiento para la seleccion de la poblacion beneficiaria del programa, entre los que destacan:
+-IPEMS de modalidad escolarizada o mixta ubicadas en localidades o municipios indigenas.
+-IPEMS de modalidad escolarizada o mixta ubicadas en localidades o municipios de alta o muy alta marginacion.
 
-Eum eu tritani accusata qualisque, pro ei purto vocent. Vim in insolens hendrerit similique. Nobis munere antiopam ei vix. Cum no labore partiendo conceptam. Sea id vide viderer mandamus, magna posidonium nam at. Ad populo persius duo, vel audire detracto scribentur ut.
+¿CUANDO Y COMO SÉ QUE SOY BECARIO/A?
+La informacion se publicara a través de los medios que dispone cada plantel (pág.WEB, redes sociales, etc.)
 
-Vim te fastidii sententiae. Vix ad facilis gloriatur, mei an diceret iracundia vituperatoribus. Iudico consetetur dissentiunt pri ut. Consul dictas pri ne. Nec an alia volumus scaevola, eos movet deleniti argumentum te. Latine abhorreant his ad, ut modus tempor euismod pri.
+¿COMO SE ENTREGA LA BECA?
+Dependiendo de la localidad de los beneficiarios/as, se ofrecerá alguna de las siguientes modalidades:
+-Mediante órdenes de pago personal e intransferible para retirar la beca en sucursales bancarias o tiendas de red extendidad.
+-Depósitos electrónicos en plataformas de bancos autorizados por la CNBBBJ
 
-Amet illum at sea, est autem fabulas eu, quod nonumes lobortis no sed. Has ei fugit adipisci reprimique. Enim tamquam ornatus pri ei. Alii harum invidunt nec ex, pri vidit latine ne. Has vocent nominati rationibus ad, ex partiendo prodesset moderatius has, vim quod paulo ad. Ex nec etiam electram, pri illud appetere eu.
+¿CUANDO SE ENTREGA LA BECA?
+La CNBBBJ en coordinacion con las instituciones bancarias encargadas de realizar los pagos, son quienes definen las fechas, lugares y procedimientos mediante los cuales se entregará el beneficio. En fecha posterior a la publicación de los resultados y a través de los medios que el plantel disponga, se dará aviso a la comunidad de toda la información pertinente.
 
-An nobis instructior eos, eam libris aperiam corrumpit ex. Case omnesque eu per. Et vix iisque tritani. Autem posidonium eu vis, sit et mutat brute. Usu ne postulant intellegat omittantur, mazim saperet adolescens mel at.
+DUDAS Y ACLARACIONES
+Si ya eres becario, puedes aclarar dudas al telefono 50 8612 3974 de lunes a viernes de 9:00 a 18 hrs o enviando una solicitud en el sistema de MI BECA2022
+https://www.mibeca2022.mx
 
-Nam at velit percipit detraxit, quas modus mea ut. Ius an natum doctus vivendum. Quo at debet vidisse viderer, mollis eripuit ex nec. Sed ut choro saepe, sale augue sea et. His nemore dolorum mnesarchum at, ius an adipisci aliquando, laoreet placerat ea ius.
