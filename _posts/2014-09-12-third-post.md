@@ -10,8 +10,13 @@ La escuela Diego Rivera tecnologica ofrece educacion Bachillerato escolarizado c
 <span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 
 [GASTRONOMIA](
+
 [ADMINISTRACION](
-[DISEÑO GRAFICO]( 
+
+[DISEÑO GRAFICO](
+
 [OFIMATICA](
+
 [TURISMO](
+
 [ENFERMERIA](
