@@ -18,41 +18,38 @@ layout: post
     <tbody>
       <tr>
         <td>Reinscripciones</td>
-        <td>Del 14 al 23 de abril 2022</td>
+        <td>Del 14 al 23 de enero 2022</td>
         <td>Entrega de documentos fisicos<br>
         
+          
         Turno matutino
         De 8:30 a 14:00 hrs.<br>
         
+          
         Turno Vespertino
         De 13:00 a 20:00 hrs.</td>
       </tr>
       <tr>
-        <td>Item 2</td>
-        <td>Vis ac commodo adipiscing arcu aliquet.</td>
-        <td>19.99</td>
+        <td>Inicio de clases</td>
+        <td>25 de enero</td>
+        <td>Llevar gel antibacterial, cubrebocas
+        y toallas humedas</td>
       </tr>
       <tr>
-        <td>Item 3</td>
-        <td> Morbi faucibus arcu accumsan lorem.</td>
-        <td>29.99</td>
+        <td>Evaluacion 1er. parcial</td>
+        <td>Del 1 al 3 de marzo</td>
+        <td>Solo tutores</td>
       </tr>
       <tr>
-        <td>Item 4</td>
-        <td>Vitae integer tempus condimentum.</td>
-        <td>19.99</td>
+        <td>Evaluacion 2do. parcial</td>
+        <td>Del 4 al 6 de arbil</td>
+        <td>Solo tutores</td>
       </tr>
       <tr>
-        <td>Item 5</td>
-        <td>Ante turpis integer aliquet porttitor.</td>
-        <td>29.99</td>
+        <td>Evaluacion 3er. parcial </td>
+        <td>Del 30 mayo al 3 de junio</td>
+        <td>Solo tutores</td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="2"></td>
-        <td>100.00</td>
-      </tr>
-    </tfoot>
   </table>
 </div>
