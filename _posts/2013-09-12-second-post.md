@@ -19,10 +19,10 @@ layout: post
       <tr>
         <td>Reinscripciones</td>
         <td>Del 14 al 23 de abril 2022</td>
-        <td>Entrega de documentos fisicos
+        <td>Entrega de documentos fisicos<br>
         
         Turno matutino
-        De 8:30 a 14:00 hrs.
+        De 8:30 a 14:00 hrs.<br>
         
         Turno Vespertino
         De 13:00 a 20:00 hrs.</td>
