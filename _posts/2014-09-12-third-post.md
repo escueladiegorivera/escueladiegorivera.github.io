@@ -5,11 +5,11 @@ layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
-La escuela Diego Rivera tecnologica ofrece educacion Bachillerato escolarizado con 6 especialidades
+La escuela Diego Rivera tecnologica ofrece educacion Bachillerato escolarizado con las siguientes 6 especialidades:
 
 <span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 
-**GASTRONOMIA:**
+**1.- GASTRONOMIA:**
 
 La Carrera de Técnico en Gastronomía está orientada a la formación de profesionistas con valores, habilidades digitales, socio emocionales, científicas y tecnológicas, para desarrollar técnicas culinarias en la pre-elaboración, elaboración y presentación con calidad de diversos platillos, cuidando las texturas de los alimentos en la gastronomía nacional e internacional que cumpla con los requerimientos nutricionales de los comensales, respetando las normas de higiene y seguridad vigentes, atendiendo necesidades gastronómicas de la sociedad y de empresas dedicadas a este sector generando emprendimientos competitivos, sustentables e innovadores, que le permitan incorporarse a:
 
@@ -20,7 +20,7 @@ La Carrera de Técnico en Gastronomía está orientada a la formación de profes
 - Empresas organizadoras de eventos gastronómicos.
 - Empresa propia.
 
-**ADMINISTRACION:**
+**2.- ADMINISTRACION:**
 
 La carrera de Técnico en Administración de Recursos Humanos se desarrolla como vertiente de la carrera de Administración y ofrece las competencias profesionales que permiten al estudiante elaborar y gestionar documentación administrativa referente a recursos humanos, integrar al personal a la organización, asistir en actividades de capacitación, desarrollo y evaluación del personal, así como determinar las remuneraciones al personal.
 
@@ -42,7 +42,7 @@ ACTITUDES:
 - Disposición para el trabajo en equipo y colaborativo
  -Liderazgo
 
-**DISEÑO GRAFICO:**
+**3.- DISEÑO GRAFICO:**
 
 La Carrera Técnica en Diseño Gráfico Digital te permitirá incursionar en un extenso abanico de oportunidades laborales, desde crear la imagen de sitios dedicados al e-commerce, hasta emplearte en agencias de publicidad, medios de comunicación, entre otros.
 Técnicos de alto nivel en competencias de producción en objetos visuales con base a las normas de la industria gráfica y que den respuesta a las necesidades de comunicación visual en su entorno así como la formación propedéutica para acceder a los estudios de nivel medio superior todo ello con su sentido crítico propositivo creativo y ético
@@ -65,7 +65,7 @@ ACTITUDES:
 - Tolerancia y respeto a la diversidad de opiniones y pensamientos
 - Ser propositivo perseverante y comprometido con el estudio
 
-**OFIMATICA:**
+**4.- OFIMATICA:**
 
 La carrera de Técnico en ofimática ofrece las competencias profesionales que permiten al estudiante realizar actividades dirigidas a obtener y gestionar información de manera digital, mediante el uso eficaz y eficiente de los recursos informáticos disponibles con la finalidad de satisfacer las necesidades y requerimientos del cliente.
 
@@ -80,7 +80,7 @@ Un alumno egresado en esta especialidad será un técnico preparado para incorpo
 - Planeación y organización.
 - Atención al cliente.
 
-**TURISMO:**
+**5.- TURISMO:**
 
 Esta carrera proporciona las herramientas para que el alumno este capacitado para elaborar proyectos turísticos innovadores para uso y aprovechamiento del patrimonio turístico, que promuevan y planeen actividades turísticas en el ámbito local, regional y nacional, que cuenten con conocimientos en servicios turísticos como hospedaje, alimentación, bebidas, agencias de viajes, guía turística así como las habilidades de expresión oral, escrita y comprensión del idioma inglés que les permita desempeñarse adecuadamente.
 
@@ -100,7 +100,7 @@ Haber concluido sus estudios de secundaria, haber reunido ciertos conocimientos,
 - Utilización de nuevas formas de comunicación y transmisión de la información
 mediante la tecnología de la información TICs.
 
-**ENFERMERIA:**
+**6.- ENFERMERIA:**
 
 El técnico en enfermería abarca los cuidados, autónomos y en colaboración, que se prestan a las personas de todas las edades, familias, grupos y comunidades, enfermos o sanos, en todos los contextos, e incluye la promoción de la salud, la prevención de la enfermedad, y los cuidados de los enfermos, discapacitados, y personas moribundas.
 
