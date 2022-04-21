@@ -1,6 +1,6 @@
 ---
-title: Guias de Estudio
-author: Chris
+title: Programa de actividades
+author:
 layout: post
 ---
 
