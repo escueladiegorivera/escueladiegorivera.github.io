@@ -3,6 +3,7 @@ title: Herramientas
 author:
 layout: post
 ---
+<span class="image center"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 <div class="table-wrapper">
   <table>
     <thead>
