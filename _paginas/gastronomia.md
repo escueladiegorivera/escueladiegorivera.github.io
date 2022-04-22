@@ -1,4 +1,0 @@
----
-title: Gastronomia
-layout: paginas
----
