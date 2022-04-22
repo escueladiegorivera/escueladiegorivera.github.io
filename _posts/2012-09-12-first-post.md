@@ -3,6 +3,8 @@ title: Herramientas
 author:
 layout: post
 ---
+En este apartado podras encontrar las herramientas que se necesitan para las clases que cada alumno ocupara conforme a la materia que vayan a ver conforme su horario escolar.
+
 <span class="image center"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 <div class="table-wrapper">
   <table>
