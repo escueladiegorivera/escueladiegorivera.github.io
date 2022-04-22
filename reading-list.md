@@ -6,17 +6,18 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+EL personal Docente de nuestra institucón se encuentra comprometida para que día con día nuestros educandos adquieran el conocimiento pertinente y de calidad, en busca del desarrollo de habilidades y competencias genéricas, disciplinares y profesionales.
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+**ENLACES EXTERNOS**
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+[Convocatoria Servicio Profesional](https://www.gob.mx/sep/acciones-y-programas/convocatoria-servicio-profesional-de-carrera-2016?state=published)
+
+[Apoyo de Tecnologias Educativas](http://www.teceducativas.sep.gob.mx/)
+
+[Portal Autoservicios de la SEC](https://portalautoservicios-sems.sep.gob.mx/login.jsp;jsessionid=ebc6a6dad75bce4f5bff9eab31c9)
+
+**DOCUMENTOS**
+
+[REGLAMENTO ESCOLAR](http://www.cetis32.edu.mx/pdf/Reglamento_Plantel.pdf)
+
+[CONDUCTAS DIGNAS](https://drive.google.com/file/d/1EOUBOL7cx7oTdp-vhHk-MG2xVfHgxOvR/view)
