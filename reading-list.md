@@ -8,7 +8,7 @@ order: 3
 
 EL personal Docente de nuestra institucón se encuentra comprometida para que día con día nuestros educandos adquieran el conocimiento pertinente y de calidad, en busca del desarrollo de habilidades y competencias genéricas, disciplinares y profesionales.
 
-**ENLACES EXTERNOS**
+--**ENLACES EXTERNOS**--
 
 [Convocatoria Servicio Profesional](https://www.gob.mx/sep/acciones-y-programas/convocatoria-servicio-profesional-de-carrera-2016?state=published)
 
@@ -16,7 +16,7 @@ EL personal Docente de nuestra institucón se encuentra comprometida para que d�
 
 [Portal Autoservicios de la SEC](https://portalautoservicios-sems.sep.gob.mx/login.jsp;jsessionid=ebc6a6dad75bce4f5bff9eab31c9)
 
-**DOCUMENTOS**
+--**DOCUMENTOS**--
 
 [Reglamento Escolar](http://www.cetis32.edu.mx/pdf/Reglamento_Plantel.pdf)
 
