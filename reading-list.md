@@ -18,6 +18,6 @@ EL personal Docente de nuestra instituc√≥n se encuentra comprometida para que d√
 
 **DOCUMENTOS**
 
-[REGLAMENTO ESCOLAR](http://www.cetis32.edu.mx/pdf/Reglamento_Plantel.pdf)
+[Reglamento Escolar](http://www.cetis32.edu.mx/pdf/Reglamento_Plantel.pdf)
 
-[CONDUCTAS DIGNAS](https://drive.google.com/file/d/1EOUBOL7cx7oTdp-vhHk-MG2xVfHgxOvR/view)
+[Conductas dignas](https://drive.google.com/file/d/1EOUBOL7cx7oTdp-vhHk-MG2xVfHgxOvR/view)
