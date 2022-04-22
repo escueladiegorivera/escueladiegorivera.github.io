@@ -10,8 +10,6 @@ layout: post
         <th>KHAN ACADEMY</th>
         <th>DUOLINGO</th>
         <th>SDCDIGITAL</th>
-        <th>VIDEOS</th>
-        <th>BIBLIOTECA DIGITAL</th>
       </tr>
     </thead>
     <tbody>
@@ -22,6 +20,21 @@ layout: post
           de aprender un idioma. https://es.duolingo.com/ </td>
         <td>El aprendizaje a través de aulas virtuales como herramienta
           al conocimiento inverso. http://sdcdigital.mx/ </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="table-wrapper">
+  <table>
+    <thead>
+      <tr>
+        <th>VIDEOS</th>
+        <th>BIBLIOTECA DIGITAL</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
         <td>Videos Educativos para Bachillerato. Un recurso innovador 
           para facilitar tus estudios. http://www.tuprepaenvideos.sep.gob.mx/ </td>
         <td>Acceso al acervo digital de la Biblioteca Nacional de 
