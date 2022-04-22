@@ -1,6 +1,6 @@
 ---
 title: Docentes
-subtitle: a list of books I read
+subtitle:
 layout: "page"
 icon: fa-book
 order: 3
