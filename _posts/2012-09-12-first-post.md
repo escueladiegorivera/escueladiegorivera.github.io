@@ -17,15 +17,15 @@ layout: post
     <tbody>
       <tr>
         <td>Matemáticas, ciencias, programación, historia, artes, economía e
-          incluso más clases gratuitas en línea. [ENLACE](https://es.khanacademy.org/)</td>
+          incluso más clases gratuitas en línea. https://es.khanacademy.org/ </td>
         <td>Aprende en cualquier lugar y a cualquier hora, la nueva forma 
-          de aprender un idioma. [ENLACE](https://es.duolingo.com/)</td>
+          de aprender un idioma. https://es.duolingo.com/ </td>
         <td>El aprendizaje a través de aulas virtuales como herramienta
-          al conocimiento inverso. [ENLACE](http://sdcdigital.mx/)</td>
+          al conocimiento inverso. http://sdcdigital.mx/ </td>
         <td>Videos Educativos para Bachillerato. Un recurso innovador 
-          para facilitar tus estudios. [ENLACE](http://www.tuprepaenvideos.sep.gob.mx/)</td>
+          para facilitar tus estudios. http://www.tuprepaenvideos.sep.gob.mx/ </td>
         <td>Acceso al acervo digital de la Biblioteca Nacional de 
-          Ciencia y Tecnología del IPN. [ENLACE](https://www.ipn.mx/bibliotecas-publicaciones/)</td>
+          Ciencia y Tecnología del IPN. https://www.ipn.mx/bibliotecas-publicaciones/ </td>
       </tr>
     </tbody>
   </table>
