@@ -9,6 +9,7 @@ La escuela Diego Rivera tecnologica ofrece educacion Bachillerato escolarizado c
 
 <span class="image left"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="" /></span>
 
+
 **1.- GASTRONOMIA:**
 
 La Carrera de Técnico en Gastronomía está orientada a la formación de profesionistas con valores, habilidades digitales, socio emocionales, científicas y tecnológicas, para desarrollar técnicas culinarias en la pre-elaboración, elaboración y presentación con calidad de diversos platillos, cuidando las texturas de los alimentos en la gastronomía nacional e internacional que cumpla con los requerimientos nutricionales de los comensales, respetando las normas de higiene y seguridad vigentes, atendiendo necesidades gastronómicas de la sociedad y de empresas dedicadas a este sector generando emprendimientos competitivos, sustentables e innovadores, que le permitan incorporarse a:
